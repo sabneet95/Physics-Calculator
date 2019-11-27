@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>f1d08f00-ef6c-4bb2-95c7-7bb7b93719e6</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>3636abc6-6199-42ee-9888-b20998d5e98c</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Astronomy.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Classical_Mechanics.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Condensed_Matter.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Electromagnetism.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Gravitational_Physics.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Left_Search.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Nuclear_Physics.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Optics.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Quantum_Computing.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Quantum_Objects.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Right_Search.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Special_Relativity.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\Dark Mode\Thermodynamics.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Atom.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Battery.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Cat.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Clock.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Cloud.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Matter.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Planet.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Telescope.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="..\3D Models\Tree.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="MainPage.xaml" />
+    <Page Include="ClassicalMechanics.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\3D Models\3-D Coordinate System.glb">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="..\3D Models\Cylinderical Coordinate System.glb">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="..\3D Models\Spherical Coordinate System.glb">
+      <Filter>Assets</Filter>
+    </None>
+  </ItemGroup>
+</Project>
