@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-87MNKI0</Machine>
+    <WindowsUser>sabne</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>87baa9cf-577e-4c6b-b953-dfa901112618</PackageIdentityName>
+    <PackageIdentityPublisher>CN=sabne</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\AppX</LayoutDir>
+    <RegisteredManifestChecksum>584E245D702CCDF33CF06E8BBD003A811336F26A5696BC28FAA9ABFCF8628CEA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>87baa9cf-577e-4c6b-b953-dfa901112618_1.0.0.0_x86__f9hvpjghgdvp4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>87baa9cf-577e-4c6b-b953-dfa901112618_f9hvpjghgdvp4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>87baa9cf-577e-4c6b-b953-dfa901112618</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sabne</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-25T19:05:00.358</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\Physics.exe">
+      <PackagePath>Physics.exe</PackagePath>
+      <Modified>2019-11-25T19:05:00.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\Physics.winmd">
+      <PackagePath>Physics.winmd</PackagePath>
+      <Modified>2019-11-13T20:19:15.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Atom.png">
+      <PackagePath>Atom.png</PackagePath>
+      <Modified>2019-11-25T19:02:53.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Battery.png">
+      <PackagePath>Battery.png</PackagePath>
+      <Modified>2019-11-25T19:02:05.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Cat.png">
+      <PackagePath>Cat.png</PackagePath>
+      <Modified>2019-11-25T19:02:19.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Clock.png">
+      <PackagePath>Clock.png</PackagePath>
+      <Modified>2019-11-25T19:02:12.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Cloud.png">
+      <PackagePath>Cloud.png</PackagePath>
+      <Modified>2019-11-25T19:01:57.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Matter.png">
+      <PackagePath>Matter.png</PackagePath>
+      <Modified>2019-11-25T19:02:44.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Planet.png">
+      <PackagePath>Planet.png</PackagePath>
+      <Modified>2019-11-25T19:03:03.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Telescope.png">
+      <PackagePath>Telescope.png</PackagePath>
+      <Modified>2019-11-25T19:02:34.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\3D Models\Tree.png">
+      <PackagePath>Tree.png</PackagePath>
+      <Modified>2019-11-25T18:59:29.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Astronomy.png">
+      <PackagePath>Astronomy.png</PackagePath>
+      <Modified>2019-11-04T23:58:02.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Classical_Mechanics.png">
+      <PackagePath>Classical_Mechanics.png</PackagePath>
+      <Modified>2019-11-04T21:42:23.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Condensed_Matter.png">
+      <PackagePath>Condensed_Matter.png</PackagePath>
+      <Modified>2019-11-05T00:06:32.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Electromagnetism.png">
+      <PackagePath>Electromagnetism.png</PackagePath>
+      <Modified>2019-11-05T01:50:50.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Gravitational_Physics.png">
+      <PackagePath>Gravitational_Physics.png</PackagePath>
+      <Modified>2019-11-04T23:52:02.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Left_Search.png">
+      <PackagePath>Left_Search.png</PackagePath>
+      <Modified>2019-11-05T00:51:35.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Nuclear_Physics.png">
+      <PackagePath>Nuclear_Physics.png</PackagePath>
+      <Modified>2019-11-05T01:54:38.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Optics.png">
+      <PackagePath>Optics.png</PackagePath>
+      <Modified>2019-11-05T00:02:53.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Quantum_Computing.png">
+      <PackagePath>Quantum_Computing.png</PackagePath>
+      <Modified>2019-11-04T23:56:00.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Quantum_Objects.png">
+      <PackagePath>Quantum_Objects.png</PackagePath>
+      <Modified>2019-11-04T23:55:05.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Right_Search.png">
+      <PackagePath>Right_Search.png</PackagePath>
+      <Modified>2019-11-05T00:51:35.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Special_Relativity.png">
+      <PackagePath>Special_Relativity.png</PackagePath>
+      <Modified>2019-11-04T23:49:10.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Dark Mode\Thermodynamics.png">
+      <PackagePath>Thermodynamics.png</PackagePath>
+      <Modified>2019-11-05T00:00:47.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-03T01:30:50.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-11-27T01:51:04.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\ClassicalMechanics.xbf">
+      <PackagePath>ClassicalMechanics.xbf</PackagePath>
+      <Modified>2019-11-27T01:51:04.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-11-27T01:51:04.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2019-03-18T22:43:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sabne\OneDrive\Documents\CODE\Physics\Physics\Debug\Physics\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-11-25T19:05:00.291</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
