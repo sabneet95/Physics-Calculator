@@ -1,4 +1,4 @@
-# Qaskit
+# Physics-Calculator
 
 
 1)
