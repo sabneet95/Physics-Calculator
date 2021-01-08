@@ -24,4 +24,4 @@
 
 
 ![alt text](https://github.com/sabneet95/Qaskit/blob/master/Classical%20Mechanics.png)
-![]https://github.com/sabneet95/Physics-Calculator/blob/master/Physics.png
+![](https://github.com/sabneet95/Physics-Calculator/blob/master/Physics.png)
