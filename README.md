@@ -1,6 +1,3 @@
-# Physics-Calculator
-
-
 # Physics Calculator - A work in progress!
 
 Physics Calculator is a C++ based UWP physics problem solving app.
