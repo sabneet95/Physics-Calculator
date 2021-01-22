@@ -8,6 +8,7 @@ Physics Calculator is a C++ based UWP physics problem solving app.
 
 ## Requirements
 [Microsoft Visual C++](https://visualstudio.microsoft.com/downloads/)
+
 [C++ (v142) Universal Windows Platform tools](https://devblogs.microsoft.com/cppblog/universal-windows-platform-development-with-c/)
 
 ## Build Tested
